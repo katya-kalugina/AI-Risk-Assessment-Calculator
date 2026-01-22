@@ -2,7 +2,7 @@
 
 A deterministic risk-scoring engine designed to operationalize the **EDPB SPE Programme** guidelines (2025) and the **FRASP** (Functional Rights AI Assessment & Scoring Protocol).
 
-[**📊 Launch Risk Calculator**](ВСТАВЬТЕ_ССЫЛКУ_ОТ_STREAMLIT_ЗДЕСЬ)
+[**📊 Launch Risk Calculator**](https://ai-risk-assessment-calculator-jcvvnyqtx9mz88shmk7nxp.streamlit.app/)
 
 ## Project Overview
 This tool provides a structured interface for evaluating the probability and severity of privacy and fundamental rights risks in AI systems. It transitions from qualitative descriptions to a quantitative scoring model while maintaining legal rigor.
