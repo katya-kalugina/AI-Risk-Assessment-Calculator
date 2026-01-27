@@ -7,7 +7,7 @@ A deterministic risk-scoring engine designed to operationalize the **EDPB SPE Pr
 ### Project Overview
 This tool provides a structured interface for evaluating the probability and severity of privacy and fundamental rights risks in AI systems. It transitions from qualitative descriptions to a quantitative scoring model while maintaining legal rigor.
 
-### Key Functional Features:
+### Key Features:
 - **Probability Assessment:** multi-factor scoring based on usage frequency, historical precedents, and system robustness.
 - **Severity Modeling:** granular evaluation of impact on natural persons across 11 dimensions.
 - **Automated 'Stopper' Logic:** integrated override that sets overall severity to Level 4 (Very Significant) if critical factors—such as human dignity or physical safety—are severely impacted.
